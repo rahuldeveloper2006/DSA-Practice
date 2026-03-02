@@ -1,13 +1,12 @@
 /*
 ========================================================
-Author      : Rahul Bhuyan
-Repository  : DSA Practice (C++)
+Author      : Rahul Kumar Bhuyan
+Repository  : DSA-Practice
 Folder Name : Loop
-File Name   : print_table.cpp
+File Name   : print_table_of_num.cpp
 Topic       : Loop (Basic Iteration)
 Problem     : Print multiplication table of a number
 Language    : C++
-Compiler    : g++
 ========================================================
 Time Complexity  : O(n)
 - Loop runs 'n' times (here n = 10)
@@ -30,3 +29,4 @@ int main(){
 		i++;
 	}
 }
+
